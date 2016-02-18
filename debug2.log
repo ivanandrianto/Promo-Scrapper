@@ -1,0 +1,916 @@
+{ link: 'http://m.bnizona.com/index.php/promo/index/16',
+  cat_name: 'Fashion' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/17',
+  cat_name: 'Groceries' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/18',
+  cat_name: 'Food and Beverage' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/19',
+  cat_name: 'Electronic' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/20',
+  cat_name: 'Gadget' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/21',
+  cat_name: 'Home' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/22',
+  cat_name: 'Accessories' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/23',
+  cat_name: 'Travel' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/24',
+  cat_name: 'Hotel' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/25',
+  cat_name: 'Health Service' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/26',
+  cat_name: 'Miscellaneous' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/28',
+  cat_name: 'Entertainment' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/34',
+  cat_name: 'Sports' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/35',
+  cat_name: 'Cicilan 0%' }
+{ link: 'http://m.bnizona.com/index.php/promo/index/39',
+  cat_name: 'Hobbies' }
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+foreach
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+enter f1
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1134',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1127',
+  valid_until: 'valid until 21 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1124',
+  valid_until: 'valid until 31 October 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1120',
+  valid_until: 'valid until 30 June 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1119',
+  valid_until: 'valid until 18 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1115',
+  valid_until: 'valid until 30 September 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1114',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1112',
+  valid_until: 'valid until 30 June 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1109',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1108',
+  valid_until: 'valid until 18 March 2017' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/16
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/16/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/835',
+  valid_until: 'valid until 23 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/827',
+  valid_until: 'valid until 05 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/791',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/754',
+  valid_until: 'valid until 22 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/729',
+  valid_until: 'valid until 15 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/728',
+  valid_until: 'valid until 19 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/725',
+  valid_until: 'valid until 19 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/724',
+  valid_until: 'valid until 19 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/723',
+  valid_until: 'valid until 12 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/719',
+  valid_until: 'valid until 19 March 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/19
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/19/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1153',
+  valid_until: 'valid until 31 January 2017' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1152',
+  valid_until: 'valid until 28 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1151',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1149',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1148',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1147',
+  valid_until: 'valid until 15 May 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1146',
+  valid_until: 'valid until 14 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1145',
+  valid_until: 'valid until 24 January 2017' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1144',
+  valid_until: 'valid until 12 July 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1143',
+  valid_until: 'valid until 28 February 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/18
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/18/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/17/1163',
+  valid_until: 'valid until 03 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/17/1121',
+  valid_until: 'valid until 30 June 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/17
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/17/10
+enter f3
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/1156',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/828',
+  valid_until: 'valid until 19 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/741',
+  valid_until: 'valid until 12 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/736',
+  valid_until: 'valid until 18 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/726',
+  valid_until: 'valid until 25 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/691',
+  valid_until: 'valid until 20 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/20/681',
+  valid_until: 'valid until 10 March 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/20
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/20/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/21/1159',
+  valid_until: 'valid until 08 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/21/746',
+  valid_until: 'valid until 19 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/21/734',
+  valid_until: 'valid until 19 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/21/733',
+  valid_until: 'valid until 19 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/21/686',
+  valid_until: 'valid until 19 February 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/21
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/21/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/1125',
+  valid_until: 'valid until 28 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/753',
+  valid_until: 'valid until 01 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/744',
+  valid_until: 'valid until 19 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/743',
+  valid_until: 'valid until 19 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/695',
+  valid_until: 'valid until 24 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/688',
+  valid_until: 'valid until 24 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/22/687',
+  valid_until: 'valid until 24 February 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/22
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/22/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/23/1137',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/23/1132',
+  valid_until: 'valid until 28 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/23/1130',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/23/954',
+  valid_until: 'valid until 30 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/23/907',
+  valid_until: 'valid until 15 June 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/23
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/23/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/25/1005',
+  valid_until: 'valid until 08 July 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/25/941',
+  valid_until: 'valid until 01 April 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/25
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/25/10
+enter f3
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1161',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1160',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1139',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1110',
+  valid_until: 'valid until 28 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1094',
+  valid_until: 'valid until 31 December 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1084',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1077',
+  valid_until: 'valid until 31 December 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1032',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/1030',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/26/983',
+  valid_until: 'valid until 31 December 2020' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/26
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/26/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/28/961',
+  valid_until: 'valid until 14 June 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/28
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/28/10
+enter f3
+foreach child
+Callback 3 started
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/1117',
+  valid_until: 'valid until 31 May 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/881',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/879',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/831',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/816',
+  valid_until: 'valid until 20 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/815',
+  valid_until: 'valid until 20 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/811',
+  valid_until: 'valid until 15 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/810',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/787',
+  valid_until: 'valid until 16 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/24/701',
+  valid_until: 'valid until 15 March 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/24
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/24/10
+callback2 called
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/34/1116',
+  valid_until: 'valid until 18 March 2017' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/34/745',
+  valid_until: 'valid until 19 February 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/34
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/34/10
+enter f3
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/758',
+  valid_until: 'valid until 12 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/751',
+  valid_until: 'valid until 19 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/749',
+  valid_until: 'valid until 14 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/716',
+  valid_until: 'valid until 23 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/715',
+  valid_until: 'valid until 23 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/714',
+  valid_until: 'valid until 23 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/713',
+  valid_until: 'valid until 23 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/35/712',
+  valid_until: 'valid until 23 March 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/35
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/35/10
+enter f3
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+foreach child
+Callback 3 started
+callback2 called
+asyncTasks
+{ link: 'http://m.bnizona.com/index.php/promo/view/39/846',
+  valid_until: 'valid until 08 May 2016' }
+loadmore
+loadmore_urlhttp://m.bnizona.com/index.php/promo/loadmore/39
+enter f2
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/39/10
+enter f3
+foreach child
+Callback 3 started
+callback2 called
+load_more_call
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1106',
+  valid_until: 'valid until 18 March 2017' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1105',
+  valid_until: 'valid until 18 March 2017' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/1085',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/826',
+  valid_until: 'valid until 01 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/790',
+  valid_until: 'valid until 30 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/788',
+  valid_until: 'valid until 31 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/735',
+  valid_until: 'valid until 22 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/16/697',
+  valid_until: 'valid until 26 February 2016' }
+panjang = 18
+false
+loadmore selesai
+get details
+{ title: 'Free Shopping Voucher Rp50 K @CENTRO Department Store',
+  image: 'http://m.bnizona.com//files/a1e1c729a654deb571c7ae499f35bb62.jpg',
+  dll: 'valid until 21 February 2016' }
+get details
+{ title: 'Cicilan 0% untuk 3 & 6 bulan di Euroskinlab',
+  image: 'http://m.bnizona.com//files/4ae5658c876e5a7bc4974c6cbe2ce2e8.jpg',
+  dll: 'valid until 31 October 2016' }
+get details
+{ title: 'Diskon 20% GIORDANO dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/0746b96b4cacfa49b46e06952c6a6599.jpg',
+  dll: 'valid until 18 February 2016' }
+get details
+{ title: 'Cicilan 0% di Bimbi.com dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/4d348fc12436aa42d92d070046c149d0.jpg',
+  dll: 'valid until 30 June 2016' }
+get details
+{ title: 'BNI - ZALORA THURSDAY SPECIAL',
+  image: 'http://m.bnizona.com//files/2234d355a1d5bdf2df022169b5cfdd7b.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Diskon 10% di EVB dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/23886e44e93ef2a44ac759f95b520136.jpg',
+  dll: 'valid until 30 September 2016' }
+get details
+{ title: 'Hemat hingga 100% dengan BNI Reward Points di Superdry',
+  image: 'http://m.bnizona.com//files/c4c4a658e522aa6437b481e1abd47534.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Diskon 15% di Point Break dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/a204544e6a202129800ba45d139e295f.jpg',
+  dll: 'valid until 30 June 2016' }
+get details
+{ title: 'Cantik dengan THEFACESHOP diskon hingga 15%',
+  image: 'http://m.bnizona.com//files/5d8c3069ee73ea2c4466b4fc7577b3ef.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Shopping brand Quiksilver dan DC Shoes diskon 10% ',
+  image: 'http://m.bnizona.com//files/3ccc85b69b543b0e8b9a2dd14a34be12.png',
+  dll: 'valid until 18 March 2017' }
+load_more_call
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/718',
+  valid_until: 'valid until 10 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/717',
+  valid_until: 'valid until 17 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/19/690',
+  valid_until: 'valid until 09 March 2016' }
+panjang = 13
+false
+loadmore selesai
+get details
+{ title: 'Installment 0% di Showroom Elektronik 88',
+  image: 'http://m.bnizona.com//files/0aadebf8655093118b08c87f9091330a.jpg',
+  dll: 'valid until 23 April 2016' }
+get details
+{ title: 'Installment 0% di Global Computer',
+  image: 'http://m.bnizona.com//files/133c25cce168b8fa317a9258f5f467ab.jpg',
+  dll: 'valid until 05 April 2016' }
+get details
+{ title: 'Installment 0% 6 & 12 bulan di Global Electronic',
+  image: 'http://m.bnizona.com//files/be8210b3e440b7b1881f9e49e601e04a.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Installment 0% di Hongkong Elektronik',
+  image: 'http://m.bnizona.com//files/40d7a82b42fc2667865d5736c82050e6.jpg',
+  dll: 'valid until 15 March 2016' }
+get details
+{ title: 'Installment 0% di Harapan Maju',
+  image: 'http://m.bnizona.com//files/503178c69d993518d6398d5d595b1f90.jpg',
+  dll: 'valid until 19 February 2016' }
+get details
+{ title: 'Installment 0% di Emporium Collection',
+  image: 'http://m.bnizona.com//files/250c95911655589b7fd74b6f7f363fc2.jpg',
+  dll: 'valid until 19 March 2016' }
+get details
+{ title: 'Installment 0% di Expo Elektronik',
+  image: 'http://m.bnizona.com//files/12053b5ec8d5545fd5d42ed66bbdf96b.jpg',
+  dll: 'valid until 19 March 2016' }
+get details
+{ title: 'Installment 0% di Central Panam Elektronik',
+  image: 'http://m.bnizona.com//files/c2b28ea18af923228629fe8c33326824.jpg',
+  dll: 'valid until 12 March 2016' }
+get details
+{ title: 'Installment 0% di Baby Power',
+  image: 'http://m.bnizona.com//files/0ae48f994167bdd51cd03df26e3d08cc.jpg',
+  dll: 'valid until 19 March 2016' }
+load_more_call
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1104',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1102',
+  valid_until: 'valid until 29 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1081',
+  valid_until: 'valid until 10 March 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/1076',
+  valid_until: 'valid until 28 February 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/967',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/966',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/963',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/962',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/898',
+  valid_until: 'valid until 30 April 2016' }
+{ link: 'http://m.bnizona.com/index.php/promo/view/18/882',
+  valid_until: 'valid until 10 June 2016' }
+lm_urlhttp://m.bnizona.com/index.php/promo/loadmore/18/20
+get details
+{ title: 'Nikmati Seafood lezat di The Manhattan Fish Market dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/337da797b3faa423b8cae1c583c83d7c.jpg',
+  dll: 'valid until 28 February 2016' }
+get details
+{ title: 'Diskon 20% di Imperial Chef dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/9a7f1efc69639428155602f58fe4a327.jpg',
+  dll: 'valid until 30 April 2016' }
+get details
+{ title: 'Installment 0% di Toko Pluto Com',
+  image: 'http://m.bnizona.com//files/eaa6f798975583e0551f40ea0d73b3ec.jpg',
+  dll: 'valid until 22 March 2016' }
+get details
+{ title: 'BNI Dining Experience',
+  image: 'http://m.bnizona.com//files/265110ffe470d699a5553a1c46d0bb88.jpg',
+  dll: 'valid until 31 January 2017' }
+get details
+{ title: 'Free Payung di Rumah Buah dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/e24e97d5b380a52d7b3147bb4a6770f6.jpg',
+  dll: 'valid until 14 April 2016' }
+get details
+{ title: 'Diskon hingga 33% santap di Grand Suki dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/d21706bbc21759046adf43938a3479c0.jpg',
+  dll: 'valid until 30 April 2016' }
+get details
+{ title: 'Diskon hingga 33% santap di Han Gang Korean Restaurant dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/a6482c428aeae99ed0997dfa9aa2db51.jpg',
+  dll: 'valid until 30 April 2016' }
+load_more_call
+panjang = 2
+false
+loadmore selesai
+get details
+{ title: 'Hemat 15% dengan BNI Reward Point di Pancious',
+  image: 'http://m.bnizona.com//files/3efe7bbe5be8446ee45e3a0d2a1376ef.jpg',
+  dll: 'valid until 12 July 2016' }
+get details
+{ title: 'Diskon 10% untuk Paket Big Box dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/6965128992edf84ffdcb502b1fa47a0c.jpg',
+  dll: 'valid until 24 January 2017' }
+get details
+{ title: 'Diskon 15% dengan Kartu Kredit BNI di Shokupan',
+  image: 'http://m.bnizona.com//files/caa71e277ca197fa1b5c367cb934a5b1.jpg',
+  dll: 'valid until 15 May 2016' }
+load_more_call
+panjang = 7
+false
+loadmore selesai
+get details
+{ title: 'Free Puyo 2 Silky Dessert dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/fa1cc378526ed8ddb70ab5a37a892988.jpg',
+  dll: 'valid until 28 February 2016' }
+get details
+{ title: 'Tambahan diskon 20% fresh product di LOTTEMart Hypermaket dan Supermaket',
+  image: 'http://m.bnizona.com//files/6e1eb6221ac6a598bd19f2722c0b1213.jpg',
+  dll: 'valid until 30 June 2016' }
+get details
+{ title: 'Gratis 5 Produk di Tip Top Swalayan dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/259d56d3dd0cce7d8534c64bea19e05e.jpg',
+  dll: 'valid until 03 April 2016' }
+get details
+{ title: 'Installment 0% di Oppo Store Centre',
+  image: 'http://m.bnizona.com//files/f8ee08fc74ff0e01d8be6bd49fca487a.jpg',
+  dll: 'valid until 18 March 2016' }
+get details
+{ title: 'Installment 0% di Smartphone Shop',
+  image: 'http://m.bnizona.com//files/645dea422103b3fa2e50c89f721fe2be.jpg',
+  dll: 'valid until 12 March 2016' }
+get details
+{ title: 'Installment 0% di Link Cell Division',
+  image: 'http://m.bnizona.com//files/6e8a0740d6dcadfd9900fd651bbe914f.jpg',
+  dll: 'valid until 19 April 2016' }
+get details
+{ title: 'Tambahan Cashback hingg Rp500 ribu di Erafone Lunar Fest 2016',
+  image: 'http://m.bnizona.com//files/9ff98886332502ff0c897945b4ece0ac.jpg',
+  dll: 'valid until 29 February 2016' }
+get details
+{ title: 'Installment 0% di Perfect Communication',
+  image: 'http://m.bnizona.com//files/c69ecc9a39a06f5e12bf25e744dbc615.jpg',
+  dll: 'valid until 20 February 2016' }
+get details
+{ title: 'Installment 0% di 7070 Selular',
+  image: 'http://m.bnizona.com//files/644ba2b09115db9e571618d6c3b76ff6.jpg',
+  dll: 'valid until 10 March 2016' }
+get details
+{ title: 'Installment 0% di Fernando ponsel',
+  image: 'http://m.bnizona.com//files/816b27efc86509211bf1465b0ff9ce21.jpg',
+  dll: 'valid until 25 March 2016' }
+load_more_call
+panjang = 5
+false
+loadmore selesai
+get details
+{ title: 'Diskon hingga 20% untuk Produk Pilihan + Cicilan 0% hingga 12 bulan di ACE International Brands',
+  image: 'http://m.bnizona.com//files/eaeab27cd4839bd579b2042767473998.jpg',
+  dll: 'valid until 08 March 2016' }
+get details
+{ title: 'Installment 0% di Cahaya Maju Keramik',
+  image: 'http://m.bnizona.com//files/ff782126e033787ff849f635c9ad9d51.jpg',
+  dll: 'valid until 19 February 2016' }
+get details
+{ title: 'Installment 0% di King Mebel',
+  image: 'http://m.bnizona.com//files/ba57071c2def077e70cf6dfc3ef89b64.jpg',
+  dll: 'valid until 19 February 2016' }
+get details
+{ title: 'Installment 0% di Nabila Furniture',
+  image: 'http://m.bnizona.com//files/b031e596cb668ba124533d6f66eb2310.jpg',
+  dll: 'valid until 19 February 2016' }
+load_more_call
+panjang = 7
+false
+loadmore selesai
+get details
+{ title: 'Installment 0% di Tiga Dara Furniture',
+  image: 'http://m.bnizona.com//files/71979871f95d51b557641e63a412b10f.jpg',
+  dll: 'valid until 19 February 2016' }
+get details
+{ title: 'Installment 0% di Toko Mido',
+  image: 'http://m.bnizona.com//files/8086c21498222b2c2866a01f13ffb2f9.jpg',
+  dll: 'valid until 01 March 2016' }
+get details
+{ title: 'Diskon 15% + Cicilan 0% di Julia Jewelry',
+  image: 'http://m.bnizona.com//files/6aa6f65b0c854252c40a9d93d53f3a52.jpg',
+  dll: 'valid until 28 February 2016' }
+get details
+{ title: 'Installment 0% di Swiss Watch',
+  image: 'http://m.bnizona.com//files/ec3ce8b9b71e0900305a768e03c7db34.jpg',
+  dll: 'valid until 19 March 2016' }
+get details
+{ title: 'Installment 0% di Time Connection',
+  image: 'http://m.bnizona.com//files/eb80b39b9e57e165a83b67cc5425bb9b.jpg',
+  dll: 'valid until 24 February 2016' }
+get details
+{ title: 'Installment 0% di Casio SKA',
+  image: 'http://m.bnizona.com//files/f89ac8d5211b14ba2048c1b288de18ca.jpg',
+  dll: 'valid until 24 February 2016' }
+get details
+{ title: 'Installment 0% di Swiss Collection',
+  image: 'http://m.bnizona.com//files/b6b1ed61ad63b8608fa11cfa74ec9795.jpg',
+  dll: 'valid until 19 March 2016' }
+load_more_call
+panjang = 5
+false
+loadmore selesai
+get details
+{ title: 'Installment 0% di Casio Ciputra',
+  image: 'http://m.bnizona.com//files/321fbc4f9b8b43763abce66e447ab007.jpg',
+  dll: 'valid until 24 February 2016' }
+get details
+{ title: 'DISKON TIKET PESAWAT Rp50 ribu + HOTEL 8% di TIKET.com',
+  image: 'http://m.bnizona.com//files/de7db25cad7480df2cacbc124fe0b055.jpg',
+  dll: 'valid until 29 February 2016' }
+get details
+{ title: 'Diskon Rp 50 ribu untuk pemesanan tiket pesawat di Ezytravel.co.id',
+  image: 'http://m.bnizona.com//files/cb1a0ac1410ab118053b0306d8f7f6da.jpg',
+  dll: 'valid until 29 February 2016' }
+get details
+{ title: 'Spesial Imlek CITILINK dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/a5e82705a5e3c0e69e93b016b072f6f2.jpg',
+  dll: 'valid until 28 February 2016' }
+load_more_call
+panjang = 2
+false
+loadmore selesai
+get details
+{ title: 'Fly with Emirates Airlines disc. up to 15%',
+  image: 'http://m.bnizona.com//files/73a0cf7337e869bda6278b814f592591.jpg',
+  dll: 'valid until 30 March 2016' }
+get details
+{ title: 'Sriwijaya Air Cicilan 0% 3, 6 & 12 Bulan pada Online dan Ticketing Office',
+  image: 'http://m.bnizona.com//files/f2eec26293949c83779d761210cd6338.jpg',
+  dll: 'valid until 15 June 2016' }
+get details
+{ title: 'Gratis Voucher at Watsons Indonesia',
+  image: 'http://m.bnizona.com//files/4341d5b4aa691ce94b5f39bf521e69e5.jpg',
+  dll: 'valid until 08 July 2016' }
+get details
+{ title: 'RS Surya Husadha Badung & Denpasar Diskon 20% Room dan Diskon 10% Medical Check-up',
+  image: 'http://m.bnizona.com//files/c5e7622b750caae80ae213790592161f.jpg',
+  dll: 'valid until 01 April 2016' }
+load_more_call
+panjang = 10
+false
+loadmore selesai
+get details
+{ title: 'DISKON TAMBAHAN 10% di www.MatahariMall.com dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/9c42bbccea08a19e6635deb5283c33c8.jpg',
+  dll: 'valid until 29 February 2016' }
+get details
+{ title: 'No Surcharge dan MasterCard Weekend Offer di SPBU Pertamina',
+  image: 'http://m.bnizona.com//files/5949a870bd07e95a83b88e1eb9fe0781.jpg',
+  dll: 'valid until 28 February 2016' }
+get details
+{ title: 'Cashback hingga Rp 200 ribu di BLANJA.com dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/2dffdda6bf6d5e3925b5ca8aaf6a92a9.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Transaksi dengan PIN Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/cc41b8ebb2d85aef4f224b556bba7ae1.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Ekstra diskon 15% + Gratis CD Deluxe Maliq & Dessential di Blibli.com',
+  image: 'http://m.bnizona.com//files/dffa09f9e05c22e0374c48d1a3c96e34.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Rejeki BNI Taplus 2015',
+  image: 'http://m.bnizona.com//files/d3ebb955e8eace65bdf0141d34092abc.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Nikmati kenyamanan layanan perbankan digital di BNI e-Branch',
+  image: 'http://m.bnizona.com//files/09fb13e30d7e4df8b519cb82b4fd2d1a.jpg',
+  dll: 'valid until 31 December 2016' }
+get details
+{ title: '14-DAYS FREE Trial at English First',
+  image: 'http://m.bnizona.com//files/18d208803afad9c8527583aa16e26678.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'BNI Twitter #Hashtag',
+  image: 'http://m.bnizona.com//files/f19beb57a297008b6fca69464b4cd4d9.jpg',
+  dll: 'valid until 31 December 2016' }
+load_more_call
+panjang = 1
+false
+loadmore selesai
+get details
+{ title: 'BNI EXPERIENCE',
+  image: 'http://m.bnizona.com//files/8e20428cf6e48e2024b6674ea375ce56.jpg',
+  dll: 'valid until 31 December 2020' }
+load_more_call
+panjang = 10
+false
+loadmore selesai
+get details
+{ title: 'Langganan MNC Play Pay 8 Get Free 4 months atau Pay 4 Get Free 2 months ',
+  image: 'http://m.bnizona.com//files/6201845f15a09c086ea897f8b3383cc6.jpg',
+  dll: 'valid until 14 June 2016' }
+get details
+{ title: 'Diskon 10% untuk Kamar + 15% Resto & Spa di Eden Hotel Bali',
+  image: 'http://m.bnizona.com//files/3623ae4ec70926c376cbef1ae5c8164a.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Khusus Selasa Diskon Rp 100 ribu untuk order Hotel di Ezytravel.co.id',
+  image: 'http://m.bnizona.com//files/88c69e10afa62c4a041b4c68b3617a77.jpg',
+  dll: 'valid until 31 May 2016' }
+get details
+{ title: 'Diskon 10% untuk Kamar + 15% Resto & Spa di Solo Paragon Hotel',
+  image: 'http://m.bnizona.com//files/3541d72a8dc2795f012ba2bf93445ebf.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Diskon up to 50% Merapi Merbabu Hotel - Yogyakarta',
+  image: 'http://m.bnizona.com//files/d776ed7926696b575219a291519e1e8a.jpg',
+  dll: 'valid until 20 March 2016' }
+get details
+{ title: 'Diskon 30% di Sagan Hotel - Yogyakarta',
+  image: 'http://m.bnizona.com//files/5dfe80ed534837b205dc981eb9a4a80f.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Diskon up to 55% di Crystal Lotus Hotel - Yogyakarta',
+  image: 'http://m.bnizona.com//files/521b8c80d95545f4e764407254ce70eb.jpg',
+  dll: 'valid until 31 March 2016' }
+get details
+{ title: 'Diskon 45% di Indoluxe Hotel - Yogyakarta',
+  image: 'http://m.bnizona.com//files/587d58a2c0096e88e792f0f647295dbd.jpg',
+  dll: 'valid until 15 April 2016' }
+get details
+{ title: 'Diskon up to 30% di Tickle Hotel - Yogyakarta',
+  image: 'http://m.bnizona.com//files/c1c8aa72edfaaf80988ec7ae4d800535.jpg',
+  dll: 'valid until 20 March 2016' }
+get details
+{ title: 'Diskon hingga 35% di Nagoya Plasa Hotel',
+  image: 'http://m.bnizona.com//files/56b5f338c31539b830a997f65a6ac9f8.jpg',
+  dll: 'valid until 16 April 2016' }
+load_more_call
+panjang = 2
+false
+loadmore selesai
+get details
+{ title: 'Diskon hingga 15% brand Nike dengan Kartu Kredit BNI',
+  image: 'http://m.bnizona.com//files/54da17474bb62b4c5f25eb2e92f67fa6.jpg',
+  dll: 'valid until 18 March 2017' }
+get details
+{ title: 'Diskon hingga 55% di Premiere Hotel Pekanbaru',
+  image: 'http://m.bnizona.com//files/df0ccc3f8a231932d086d9932dab358a.jpg',
+  dll: 'valid until 15 March 2016' }
+load_more_call
+panjang = 8
+false
+loadmore selesai
+get details
+{ title: 'Installment 0% di VH Pusat Grosir',
+  image: 'http://m.bnizona.com//files/8fee362d61aa92d9634c5f69b9548301.jpg',
+  dll: 'valid until 12 March 2016' }
+get details
+{ title: 'Installment 0% di TB Mitra Jaya',
+  image: 'http://m.bnizona.com//files/7813ac5e67f61bc2697f6d7025690724.jpg',
+  dll: 'valid until 19 February 2016' }
+get details
+{ title: 'Installment 0% di Toko Andalas Bangunan',
+  image: 'http://m.bnizona.com//files/00fcf9106142177b7b52b28a6eed401c.jpg',
+  dll: 'valid until 14 March 2016' }
+get details
+{ title: 'Penawaran spesial di RY Auto Services',
+  image: 'http://m.bnizona.com//files/4d23108e5b46edf8f19d2e057fcdac66.jpg',
+  dll: 'valid until 23 March 2016' }
+get details
+{ title: 'Installment 0% di Toko Maju',
+  image: 'http://m.bnizona.com//files/f1b316bb2885bc60811b3ca91c4303dc.jpg',
+  dll: 'valid until 19 March 2016' }
+get details
+{ title: 'Penawaran spesial di EFO Auto Services',
+  image: 'http://m.bnizona.com//files/945ebb06adf943bf3e14ae82e97dd096.jpg',
+  dll: 'valid until 23 March 2016' }
+get details
+{ title: 'Penawaran spesial di ARD Auto Service',
+  image: 'http://m.bnizona.com//files/8c6675ce7e31acd3dd39067a94a87d37.jpg',
+  dll: 'valid until 23 March 2016' }
+load_more_call
+panjang = 1
+false
+loadmore selesai
+get details
+{ title: 'Penawaran spesial di MZR Auto Services',
+  image: 'http://m.bnizona.com//files/27a37bf2cf8c329540b80b13fba7a017.jpg',
+  dll: 'valid until 23 March 2016' }
+selesai
+arr length 15
+load_more_call
+panjang = 20
+false
+loadmore selesai
+get details
+{ title: 'Mari Belajar di 88 ENGLISH Surabaya, Diskon 30%',
+  image: 'http://m.bnizona.com//files/38f9b32fe54d8d0a669bf1aadd633a8f.jpg',
+  dll: 'valid until 08 May 2016' }
+get details
+{ title: 'Penawaran spesial di BBC Oto Service',
+  image: 'http://m.bnizona.com//files/41e73a935f5a3bf0f56a3c7b5533db81.jpg',
+  dll: 'valid until 23 March 2016' }
