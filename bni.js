@@ -32,6 +32,7 @@ app.get('/scrape', function(reqmres){
 				var link = {link:link_data,cat_name:cat_name};
 				cat_url.push(link);
 			})	
+			console.log(cat_url);
 		}
 		//loop untuk setiap jenis alat
 		cat_url.forEach(function(item){
@@ -51,7 +52,8 @@ app.get('/scrape', function(reqmres){
 									var data = $(this);
 									var link = data.children().first().attr('href');
 									var valid_until = data.children().children().first().next().next().next().text();
-									var this_data = {link:link,valid_until:valid_until};									
+									var this_data = {link:link,valid_until:valid_until};
+									console.log(this_data);
 									this_cat_link.push(this_data);
 								})
 								$('#loadmoreajaxloader').filter(function(){
@@ -97,7 +99,7 @@ app.get('/scrape', function(reqmres){
 								});
 							},
 							function (err) {
-							 	//console.log("loadmore selesai"+ item.cat_name);
+							 	console.log("loadmore selesai untuk kategori  " + item.cat_name);
 							});
 						} else {
 				        	callback(null,"0","0");
@@ -125,6 +127,7 @@ app.get('/scrape', function(reqmres){
 		                      		image = data.children().first().attr('src');
 		                    	});
 		                    	var details = {title:title,image:image,dll:this_cat_link[i].valid_until};
+		                    	console.log(details);
 		                    	this_cat.push(details);
 		                  	} else {
 		                    	console.log(error);
@@ -146,11 +149,6 @@ app.get('/scrape', function(reqmres){
 					callback2();
 				});
 			});
-		});
-		asyncTasks.push(function(callback2){
-			setTimeout(function(){
-		    callback2();
-		  }, 10000);
 		});
 		async.parallel(asyncTasks, function(){
 			fs.writeFile('output.json', JSON.stringify(arr, null, 4), function(err){
